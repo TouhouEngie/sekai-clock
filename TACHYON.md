@@ -10,3 +10,9 @@ Milestone 1
 <img width="793" height="512" alt="image" src="https://github.com/user-attachments/assets/5faf679c-36ad-4277-9e47-dfe3b0d614a1" />
 Dropped the hi-fidelity speaker for the piezo for simplicity' sake and because i'm using all 6 available keyboard switches.
 Also CAD controls are more convoluted than a pilot control panel :p
+
+Milestone 2
+<img width="1056" height="734" alt="image" src="https://github.com/user-attachments/assets/f383c5da-3979-4bd6-99b8-577c81ce6767" />
+The more I'm doing this, the more progress and enjoyment I'm getting from this. Noice.
+Only need to get the backplate done at this moment in time
+
