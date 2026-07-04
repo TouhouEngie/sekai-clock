@@ -16,3 +16,6 @@ Milestone 2
 The more I'm doing this, the more progress and enjoyment I'm getting from this. Noice.
 Only need to get the backplate done at this moment in time
 
+Milestone 3
+<img width="847" height="563" alt="image" src="https://github.com/user-attachments/assets/3427734a-4973-444d-b979-9b445c989eb2" />
+Spent too much time getting the tolerances right; last stop: light strip.
