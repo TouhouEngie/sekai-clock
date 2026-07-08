@@ -19,3 +19,9 @@ Only need to get the backplate done at this moment in time
 Milestone 3
 <img width="847" height="563" alt="image" src="https://github.com/user-attachments/assets/3427734a-4973-444d-b979-9b445c989eb2" />
 Spent too much time getting the tolerances right; last stop: light strip.
+
+Milestone 4
+- I decided to use the holes in the LCD board (used for mounting) to allow for routing the LED strip.
+- Meanwhile, here we are doing some Arduino firmware code
+<img width="1800" height="1169" alt="Screenshot 2026-07-08 at 7 55 55 PM" src="https://github.com/user-attachments/assets/82299eaf-6f91-4b3d-89f0-96f345ddc3cb" />
+
