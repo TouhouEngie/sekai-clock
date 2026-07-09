@@ -1,31 +1,37 @@
 ## Logfile
 
-Milestone 0
+Milestone 0 - Wiring
+- Duration: ~1 hour
 <img width="1668" height="2157" alt="g-9" src="https://github.com/user-attachments/assets/49cbb452-ecdc-4882-a85e-1b81199cb84a" />
 <img width="1668" height="2157" alt="g-10" src="https://github.com/user-attachments/assets/42eb8260-39ad-43c1-a525-28bc4a16be15" />
 really need to remind myself that i'm still new to this.
 
 
-Milestone 1
+Milestone 1 - CAD 1
+- Duration: 2 hours
 <img width="793" height="512" alt="image" src="https://github.com/user-attachments/assets/5faf679c-36ad-4277-9e47-dfe3b0d614a1" />
 Dropped the hi-fidelity speaker for the piezo for simplicity' sake and because i'm using all 6 available keyboard switches.
 Also CAD controls are more convoluted than a pilot control panel :p
 
-Milestone 2
+Milestone 2 - CAD 2
+- Duration: 2 hours
 <img width="1056" height="734" alt="image" src="https://github.com/user-attachments/assets/f383c5da-3979-4bd6-99b8-577c81ce6767" />
 The more I'm doing this, the more progress and enjoyment I'm getting from this. Noice.
 Only need to get the backplate done at this moment in time
 
-Milestone 3
+Milestone 3 - CAD 3
+- Duration: 2 hours
 <img width="847" height="563" alt="image" src="https://github.com/user-attachments/assets/3427734a-4973-444d-b979-9b445c989eb2" />
 Spent too much time getting the tolerances right; last stop: light strip.
 
-Milestone 4
-- I decided to use the holes in the LCD board (used for mounting) to allow for routing the LED strip.
+Milestone 4 - Firmware
+- (this took about 3 hours in total)
 - Meanwhile, here we are doing some Arduino firmware code
 <img width="1800" height="1169" alt="Screenshot 2026-07-08 at 7 55 55 PM" src="https://github.com/user-attachments/assets/82299eaf-6f91-4b3d-89f0-96f345ddc3cb" />
 
-Milestone 4.5
-I decided that glue/tape alone wasn't gonna do much for the display, so back in Fusion for a last-minute support
+Milestone 4.5 - CAD 3.5
+- Duration: 10-15 minutes
+I decided to use the holes in the LCD board (used for mounting) to allow for routing the LED strip.
+I also decided that glue/tape alone wasn't gonna do much for the display, so back in Fusion for a last-minute support
 <img width="964" height="622" alt="image" src="https://github.com/user-attachments/assets/e3d3e37f-78a6-4e8f-8c5b-6d12bc4c3430" />
 
