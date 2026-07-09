@@ -1,6 +1,7 @@
 # sekai-clock
 
-A custom alarm clock combining the sunrise alarm feature of Google Home hubs with rhythm microgames inspired by WarioWare Gold's alarm functionality and KTaNE.
+A custom alarm clock combining the sunrise alarm feature of Google Home hubs with a microgame inspired by WarioWare Gold's alarm functionality and KTaNE.
+The Sunrise alarm uses both screen brightness and an LED light strip to (somewhat) gently wake you up 5-15 minutes before your alarm and requires you to 'defuse' the clock using a Simon Says module/app.
 
 Progress is stored in TACHYON.md.
 
@@ -19,5 +20,7 @@ Bill of Materials
 - *LED light strip (any 5V light strip will do)
 - Keyboard switches + keycaps (6 of each)
 - Piezo buzzer
-- 3D-printed enclosure
-- Some glue/liquid adhesive
+- *3D-printed enclosure
+- *Some glue/liquid adhesive
+
+(Items marked with a * were not included with a kit.)
