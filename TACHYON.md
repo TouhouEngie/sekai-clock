@@ -25,3 +25,7 @@ Milestone 4
 - Meanwhile, here we are doing some Arduino firmware code
 <img width="1800" height="1169" alt="Screenshot 2026-07-08 at 7 55 55 PM" src="https://github.com/user-attachments/assets/82299eaf-6f91-4b3d-89f0-96f345ddc3cb" />
 
+Milestone 4.5
+I decided that glue/tape alone wasn't gonna do much for the display, so back in Fusion for a last-minute support
+<img width="964" height="622" alt="image" src="https://github.com/user-attachments/assets/e3d3e37f-78a6-4e8f-8c5b-6d12bc4c3430" />
+
