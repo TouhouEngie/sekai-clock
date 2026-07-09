@@ -4,7 +4,7 @@ A custom alarm clock combining the sunrise alarm feature of Google Home hubs wit
 The Sunrise alarm uses both screen brightness and an LED light strip to (somewhat) gently wake you up 5-15 minutes before your alarm and requires you to 'defuse' the clock using a Simon Says module/app.
 
 ! IMPORTANT !
-- To print the enclosure, I recommend using the 3MF or STEP. DO NOT USE THE STL AS THAT INCLUDES ADDITIONAL COMPONENTS.
+- To print the enclosure, I recommend using the 3MF.
 
 Progress is stored in TACHYON.md.
 
@@ -18,9 +18,8 @@ Final Wiring Diagram
 Bill of Materials
 - ESP32 (I used the Lolin C3)
 - Jumper wires (how many exactly will be disclosed soon)
-- *Jumper wire splitters (these come dirt cheap for ground, i got a pack at Micro Center for $3)
+- *Jumper wire splitters (these come dirt cheap for ground, [i got a pack at Micro Center for $3](https://www.microcenter.com/product/438192/schmartboard-inc-11-m-f-4-way-bus-jumpers-w-40-headers-(black))
 - TFT LCD from AliExpress
-- *LED light strip (any 5V light strip will do)
 - Keyboard switches + keycaps (6 of each)
 - Piezo buzzer
 - *3D-printed enclosure
