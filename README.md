@@ -3,6 +3,9 @@
 A custom alarm clock combining the sunrise alarm feature of Google Home hubs with a microgame inspired by WarioWare Gold's alarm functionality and KTaNE.
 The Sunrise alarm uses both screen brightness and an LED light strip to (somewhat) gently wake you up 5-15 minutes before your alarm and requires you to 'defuse' the clock using a Simon Says module/app.
 
+! IMPORTANT !
+- To print the enclosure, I recommend using the 3MF or STEP. DO NOT USE THE STL AS THAT INCLUDES ADDITIONAL COMPONENTS.
+
 Progress is stored in TACHYON.md.
 
 Design
