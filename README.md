@@ -4,6 +4,10 @@ A custom alarm clock combining the sunrise alarm feature of Google Home hubs wit
 
 Progress is stored in TACHYON.md.
 
+Design
+<img width="1694" height="1126" alt="image" src="https://github.com/user-attachments/assets/d1890bc7-9ae3-483a-9353-3b6dcdfa5206" />
+
+
 Final Wiring Diagram
 <img width="2006" height="1258" alt="image" src="https://github.com/user-attachments/assets/c0946b8c-1805-4c14-a9fc-8d6b2bc4c8b2" />
 
